@@ -1,2 +1,3 @@
 # eco-sounds
-https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-1.md
+
+https://ysafronau.github.io/nature-sounds
